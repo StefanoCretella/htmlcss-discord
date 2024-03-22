@@ -72,10 +72,8 @@ footer {
 }
 
 .col-40 {
-    width: 40%;
-    border: dashed;
-    background-color: rgba(255,192,203,255);
-    height: 400px;
+    width: 35%;
+    height: 500px;
 }
 
 .col-50 {
@@ -84,9 +82,9 @@ footer {
 
 .col-60 {
     width: 60%;
-    border: dashed;
-    background-color: rgba(30,144,255,255);
-    height: 400px;
+    height: 500px;
+    background-image: url(img/item1.svg);
+    background-repeat: no-repeat;
 }
 
 .col-100 {
@@ -232,3 +230,17 @@ footer {
     color: white;
     padding-top: 5px;
 }
+/* FINE BG-JUMBO */
+
+/* INIZIO BG ITEM1.SVG */
+.titolo-block-2 {
+    font-size: 55px;
+    color: black;
+}
+
+.h3-block-black{
+    color: rgba(35,39,42,255);
+    padding-top: 20px;
+}
+
+/* FINE BG ITEM1.SVG */
