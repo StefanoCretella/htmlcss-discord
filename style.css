@@ -254,3 +254,17 @@ footer {
     background-repeat: no-repeat;
 }
 /* FINE BG ITEM2.SVG */
+
+/* INIZIO BG ITEM3.SVG */
+.col-40-3 {
+    width: 39%;
+    height: 500px;
+}
+
+.col-60-3 {
+    width: 60%;
+    height: 500px;
+    background-image: url(img/item3.svg);
+    background-repeat: no-repeat;
+}
+/* FINE BG ITEM3.SVG */
